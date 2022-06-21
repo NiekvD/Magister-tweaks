@@ -1,0 +1,12 @@
+{
+    "name": "Magister tweaks",
+    "description": "needs update to make tweaks plural",
+    "version": "0.4",
+    "manifest_version": 3,
+    "permissions": [],
+    "action": {},
+    "content_scripts": [{
+        "matches": ["https://sgdenbosch.magister.net/*"],
+        "js": ["inject.js"]
+    }]
+}
