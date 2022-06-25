@@ -10,7 +10,7 @@ dark mode flips the colors on screen except profile images
 3. unzip the file
 
 ### importing the extension
-1. go to ![chrome://extensions](chrome://extensions)
+1. go to chrome://extensions
 2. click on load **unpacked extension** in the top bar
 3. select the 'Magister-tweaks-master' folder
 4. ⚠️if you get an error select the folder inside the top folder
