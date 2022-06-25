@@ -1,7 +1,7 @@
 {
     "name": "Magister tweaks",
     "description": "needs update to make tweaks plural",
-    "version": "0.4",
+    "version": "0.4.1",
     "manifest_version": 3,
     "permissions": [],
     "action": {},
